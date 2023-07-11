@@ -195,3 +195,126 @@ height: 250px;;
   .hot-deal-img{
     padding-right: 25px;
   }
+  
+/* insta section */
+.instagram-info{
+    align-items: center;
+    text-align: center;
+    max-width: 80%;
+    margin: auto;
+}
+
+.insta1{ 
+    background-image: url("flower Asset/Flower\ 01.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0;
+    height: 250px;
+    width: 300px;
+}
+.insta2{
+   background-image: url("Flower Asset/Rectangle\ 4.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+    border:0;
+    height: 250px;
+    width: 300px;
+
+}
+.insta3{ 
+   background-image: url("Flower Asset/Rectangle\ 5.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+    border:0;
+    height: 250px;
+    width: 300px;
+}
+ .insta4{
+    background-image: url("Flower Asset/Rectangle\ 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:0;
+    height: 250px;
+    width: 300px;
+}
+.insta-picture{
+    display:flex;
+    justify-content: space-evenly;
+    gap: 3px;
+    align-items: center;
+    max-width: 80%;
+    margin: auto;
+
+}
+.insta-heading{
+    align-items: center;
+    text-align: center;
+}
+.insta-name{
+    font-size: 40px;
+ font-weight: 800;
+}
+
+.insta-description{
+    font-size: 18px;
+    color: #272727;
+}
+
+/* latest deal part */
+.latest-deal{
+
+    height: 449px;
+   background-image:url("Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 80px;
+}
+.latest-deal-info{
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+.deal-heading{
+    font-size: 40px;
+    font-weight: 800;
+}
+.deal-paragraph{
+    font-size: 18px;
+    color: #272727;
+}
+.email{
+    width:400px;
+height: 40px;
+border-radius: 8px;
+}
+.button-deal{
+    width:80px;
+    height:40px;
+    border-radius: 8px;
+    background-color: #E55473;
+    color:white;
+    border: 0;
+
+}
+/* footer */
+.footer-section {background-color: rgb(45, 29, 29);
+    margin: 0;
+    color: white;
+    text-align: center;
+    align-items: center;
+    padding: 80px;
+    height:230px;
+    margin-top: 80px;
+    
+    }
+    
+    .footer-note{
+    font-size: 20px;
+    }
+    
+    
+    .copyright{
+     color: #b1acac;
+     font-size: 18px;
+    }
