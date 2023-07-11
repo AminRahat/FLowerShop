@@ -205,7 +205,8 @@ height: 250px;;
 }
 
 .insta1{ 
-    background-image: url("flower Asset/Flower\ 01.png");
+    background-image:url("Flower Asset/Flower01.png");
+    
     background-repeat: no-repeat;
     background-size: cover;
     border: 0;
@@ -297,7 +298,7 @@ border-radius: 8px;
     border: 0;
 
 }
-/* footer */
+/* footer section */
 .footer-section {background-color: rgb(45, 29, 29);
     margin: 0;
     color: white;
