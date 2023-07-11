@@ -24,4 +24,37 @@
 .logo-name{
     font-size: 40px;
     font-weight: 800;
-    color:rgb(222, 119, 136);
+    color:rgb(222, 119, 136);}
+
+    /* banner-css */
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(226, 207, 210);
+    border: o;
+    height:800px;}
+
+.banner-info{
+    width: 50%;
+    align-items: center;
+    padding-right: 30 px;
+    padding-left: 20px;
+    margin: auto;}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;}
+.banner-p{
+    color: rgba(21, 18, 18, 0.6);
+    font-size: 18px;}
+
+.btn-p{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: white;
+    border: 0;}
+.banner-image{
+    width: 635px;
+    height: 800px;}
